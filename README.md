@@ -13,3 +13,4 @@ This project consists of the following files:
 # Resources referenced
 
 - https://medium.com/analytics-vidhya/random-forest-on-titanic-dataset-88327a014b4d
+- https://www.analyticsvidhya.com/blog/2021/01/gaussian-naive-bayes-with-hyperpameter-tuning/
