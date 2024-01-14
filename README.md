@@ -1,4 +1,4 @@
-# DSTitanicProject
+# Titanic Survival Precictions Project
 
 This is a personal data science (starter) project completed by Alex Mak. This project responds to the task of implementing a machine-learning model that can best predict the survival of Titanic passengers. Through the implementing process, this project will also serve to examine different machine-learning models as self-learning.
 
